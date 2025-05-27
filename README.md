@@ -5,7 +5,7 @@ Command Line tool for managing LiteDB database.
 # Usage
 
 ```bash
-litedbcli "test.db" <password>
+litedbcli test.db
 
 > show tables
 Coils
