@@ -60,7 +60,7 @@ namespace litedbcli
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("Usage: litedbcli <database-file>");
+                Console.WriteLine("Usage: litedbcli <database-file> <password>");
                 return;
             }
             var fname = args[0];
